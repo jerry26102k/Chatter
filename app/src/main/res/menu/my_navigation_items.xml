@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_message"
+        android:title="Messages"
+        android:icon="@drawable/message" />
+    <item android:id="@+id/action_call"
+        android:title="Call"
+        android:icon="@drawable/call" />
+    <item android:id="@+id/action_videoCall"
+        android:title="Video Call"
+        android:icon="@drawable/videocall" />
+    <item android:id="@+id/action_contacts"
+        android:title="Contacts"
+        android:icon="@drawable/contacts" />
+</menu>
